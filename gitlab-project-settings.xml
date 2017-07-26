@@ -1,0 +1,88 @@
+<application>
+  <component name="SettingsState">
+    <option name="host" value="http://gitlab.troopers.agency/" />
+    <option name="token" value="aoVzd6b9jQhvGuJ5TDqA" />
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.troopers.agency/troopers/ape.git" />
+          <option name="name" value="ape" />
+          <option name="namespace" value="Troopers" />
+          <option name="sshUrl" value="ssh://git@gitlab.troopers.agency:22022/troopers/ape.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.troopers.agency/troopers/appventus.com.git" />
+          <option name="name" value="appventus.com" />
+          <option name="namespace" value="Troopers" />
+          <option name="sshUrl" value="ssh://git@gitlab.troopers.agency:22022/troopers/appventus.com.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.troopers.agency/troopers/caravane.git" />
+          <option name="name" value="caravane" />
+          <option name="namespace" value="Troopers" />
+          <option name="sshUrl" value="ssh://git@gitlab.troopers.agency:22022/troopers/caravane.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.troopers.agency/troopers/ClimateChance.git" />
+          <option name="name" value="ClimateChance" />
+          <option name="namespace" value="Troopers" />
+          <option name="sshUrl" value="ssh://git@gitlab.troopers.agency:22022/troopers/ClimateChance.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.troopers.agency/troopers/Elinoi.git" />
+          <option name="name" value="Elinoi" />
+          <option name="namespace" value="Troopers" />
+          <option name="sshUrl" value="ssh://git@gitlab.troopers.agency:22022/troopers/Elinoi.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.troopers.agency/troopers/eos.git" />
+          <option name="name" value="eos" />
+          <option name="namespace" value="Troopers" />
+          <option name="sshUrl" value="ssh://git@gitlab.troopers.agency:22022/troopers/eos.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.troopers.agency/troopers/epatrimoine.git" />
+          <option name="name" value="epatrimoine" />
+          <option name="namespace" value="Troopers" />
+          <option name="sshUrl" value="ssh://git@gitlab.troopers.agency:22022/troopers/epatrimoine.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.troopers.agency/troopers/mangopay-api-sandbox.git" />
+          <option name="name" value="mangopay-api-sandbox" />
+          <option name="namespace" value="Troopers" />
+          <option name="sshUrl" value="ssh://git@gitlab.troopers.agency:22022/troopers/mangopay-api-sandbox.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.troopers.agency/troopers/patrimea.git" />
+          <option name="name" value="patrimea" />
+          <option name="namespace" value="Troopers" />
+          <option name="sshUrl" value="ssh://git@gitlab.troopers.agency:22022/troopers/patrimea.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.troopers.agency/troopers/Senat.git" />
+          <option name="name" value="Senat" />
+          <option name="namespace" value="Troopers" />
+          <option name="sshUrl" value="ssh://git@gitlab.troopers.agency:22022/troopers/Senat.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.troopers.agency/troopers/solenebail.git" />
+          <option name="name" value="solenebail" />
+          <option name="namespace" value="Troopers" />
+          <option name="sshUrl" value="ssh://git@gitlab.troopers.agency:22022/troopers/solenebail.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.troopers.agency/troopers/troopers.agency.git" />
+          <option name="name" value="troopers.agency" />
+          <option name="namespace" value="Troopers" />
+          <option name="sshUrl" value="ssh://git@gitlab.troopers.agency:22022/troopers/troopers.agency.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.troopers.agency/troopers/wweeddoo.git" />
+          <option name="name" value="wweeddoo" />
+          <option name="namespace" value="Troopers" />
+          <option name="sshUrl" value="ssh://git@gitlab.troopers.agency:22022/troopers/wweeddoo.git" />
+        </ProjectDto>
+      </list>
+    </option>
+  </component>
+</application>

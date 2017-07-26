@@ -1,0 +1,67 @@
+<templateSet group="PHP">
+  <template name="rqr" value="require &quot;$END$&quot;;" description="'require' statement" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+  <template name="rqro" value="require_once &quot;$END$&quot;;" description="'require_once' statement" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+  <template name="inc" value="include &quot;$END$&quot;;" description="'include' statement" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+  <template name="inco" value="include_once &quot;$END$&quot;;" description="'include_once' statement" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <context />
+  </template>
+  <template name="pubsf" value="public static function $NAME$($PARAMETERS$){&#10;    $END$&#10;}" description="public static function" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="prosf" value="protected static function $NAME$($PARAMETERS$){&#10;    $END$&#10;}" description="protected static function" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="prif" value="private function $NAME$($PARAMETERS$){&#10;    $END$&#10;}" description="private function" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="prisf" value="private static function $NAME$($PARAMETERS$){&#10;    $END$&#10;}" description="private static function" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PARAMETERS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="el" value="error_log($END$);" description="error_log($END$);" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="vd" value="var_dump($END$);" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="vde" value="var_dump($END$);exit;" description="var_dump($END$);" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="pr" value="print_r($END$);" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="pre" value="print_r($END$);exit;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="switch" value="switch ($ITERABLE$) {&#10;    case $PROP1$:&#10;        break;&#10;    case $PROP2$:&#10;        break;&#10;    default:&#10;        break;&#10;}" description="switch structure" toReformat="false" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PROP1" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PROP2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP Expression" value="true" />
+    </context>
+  </template>
+</templateSet>
