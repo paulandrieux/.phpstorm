@@ -4,11 +4,10 @@
     <extensionMap>
       <mapping pattern="UnpublishType" type="PHP" />
       <mapping pattern="DockerFile" type="PLAIN_TEXT" />
+      <mapping pattern="knp_gaufrette.yml" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
-      <mapping pattern="knp_gaufrette.yml" type="PLAIN_TEXT" />
       <mapping pattern=".php_cs" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="xliff" type="XML" />
