@@ -13,14 +13,14 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="/usr/local/php5/bin/php" id="0dc667d7-7a56-4e58-afb0-deb017219871" name="PHP 5.6.14" debugger_id="php.debugger.XDebug" />
-      <interpreter home="/usr/local/php5/bin/php" id="34558e17-505d-4f31-a68b-2b09f41f6603" name="PHP 5.5" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/usr/local/php5/bin/php" id="34558e17-505d-4f31-a68b-2b09f41f6603" name="PHP 7.1.1" debugger_id="php.debugger.XDebug" />
       <interpreter home="/usr/local/php5/bin/php" id="e2826158-121b-4de7-b2db-75b4ef96fa84" name="PHP 7.0" debugger_id="php.debugger.XDebug" debugger_extension="xdebug.so" />
       <interpreter home="/usr/local/Cellar/php71/7.1.4_16/bin/php" id="323f9b6f-19ec-44d1-8ad5-1068ac32bd9d" name="PHP 7.1.4" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 5.5">
+      <interpreter name="PHP 7.1.1">
         <phpinfo binary_type="PHP" php_cgi="/usr/local/php5-7.1.1-20170213-100732/bin/php-cgi" php_cli="/usr/local/php5-7.1.1-20170213-100732/bin/php" path_separator=":" version="7.1.1">
           <additional_php_ini>/usr/local/php5/php.d/10-extension_dir.ini, /usr/local/php5/php.d/20-extension-opcache.ini, /usr/local/php5/php.d/40-openssl.ini, /usr/local/php5/php.d/50-extension-apcu.ini, /usr/local/php5/php.d/50-extension-curl.ini, /usr/local/php5/php.d/50-extension-gmp.ini, /usr/local/php5/php.d/50-extension-imap.ini, /usr/local/php5/php.d/50-extension-intl.ini, /usr/local/php5/php.d/50-extension-mcrypt.ini, /usr/local/php5/php.d/50-extension-mssql.ini, /usr/local/php5/php.d/50-extension-pdo_pgsql.ini, /usr/local/php5/php.d/50-extension-pgsql.ini, /usr/local/php5/php.d/50-extension-propro.ini, /usr/local/php5/php.d/50-extension-raphf.ini, /usr/local/php5/php.d/50-extension-readline.ini, /usr/local/php5/php.d/50-extension-ssh2.ini, /usr/local/php5/php.d/50-extension-xdebug.ini, /usr/local/php5/php.d/50-extension-xsl.ini, /usr/local/php5/php.d/60-extension-pecl_http.ini, /usr/local/php5/php.d/99-liip-developer.ini</additional_php_ini>
           <configuration_file>/usr/local/php5/lib/php.ini</configuration_file>
@@ -317,7 +317,7 @@
             <configuration_option name="xdebug.profiler_output_dir" value="/var/tmp/" />
             <configuration_option name="xdebug.profiler_output_name" value="xdebug-profile-cachegrind.out-%H-%R" />
             <configuration_option name="xdebug.remote_addr_header" value="" />
-            <configuration_option name="xdebug.remote_autostart" value="" />
+            <configuration_option name="xdebug.remote_autostart" value="1" />
             <configuration_option name="xdebug.remote_connect_back" value="0" />
             <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
             <configuration_option name="xdebug.remote_enable" value="0" />
