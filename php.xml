@@ -64,7 +64,7 @@
             <configuration_option name="date.default_longitude" value="8.5244" />
             <configuration_option name="date.sunrise_zenith" value="90.583333" />
             <configuration_option name="date.sunset_zenith" value="90.583333" />
-            <configuration_option name="date.timezone" value="Europe/Zurich" />
+            <configuration_option name="date.timezone" value="Europe/Paris" />
             <configuration_option name="default_charset" value="UTF-8" />
             <configuration_option name="default_mimetype" value="text/html" />
             <configuration_option name="default_socket_timeout" value="60" />
@@ -138,7 +138,7 @@
             <configuration_option name="mbstring.substitute_character" value="" />
             <configuration_option name="mcrypt.algorithms_dir" value="" />
             <configuration_option name="mcrypt.modes_dir" value="" />
-            <configuration_option name="memory_limit" value="256M" />
+            <configuration_option name="memory_limit" value="2048M" />
             <configuration_option name="mysqli.allow_local_infile" value="1" />
             <configuration_option name="mysqli.allow_persistent" value="1" />
             <configuration_option name="mysqli.default_host" value="" />
