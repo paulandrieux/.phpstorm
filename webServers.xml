@@ -5,5 +5,15 @@
         <option name="hostKeyCheckingLevel" value="NO" />
       </SftpAdvancedOptions>
     </sftpAdvancedGlobalOptions>
+    <option name="servers">
+      <webServer id="3b4f6597-919d-4551-ae1a-4fa68b64a6dd" name="jakku" url="http://quovadis.eu">
+        <fileTransfer host="quovadis.eu" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/etc/apache2/sites-available" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
   </component>
 </application>
