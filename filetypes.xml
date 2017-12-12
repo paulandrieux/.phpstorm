@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="UnpublishType" type="PHP" />
       <mapping pattern="DockerFile" type="PLAIN_TEXT" />
+      <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern="knp_gaufrette.yml" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
