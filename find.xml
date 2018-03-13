@@ -1,35 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Project 'loire'" />
+    <option name="defaultScopeName" value="Project 'loire'" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.java</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.php</mask>
-      <mask>*.twi</mask>
-      <mask>*.me</mask>
-      <mask>*.met</mask>
-      <mask>*.meta</mask>
-      <mask>*.xml</mask>
-      <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.f</mask>
-      <mask>*.fea</mask>
-      <mask>*.feat</mask>
-      <mask>*.featu</mask>
-      <mask>*.feature</mask>
-      <mask>*.t</mask>
-      <mask>*.tw</mask>
-      <mask>*.twig</mask>
-    </recentFileMasks>
+    <option name="SEARCH_SCOPE" value="Project 'loire'" />
   </component>
 </application>
