@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="test.vpauto.fr" id="91b5f677-6ee7-42f1-b99a-c0ec18532646" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="appventus" />
+    </configs>
+  </component>
+</application>
