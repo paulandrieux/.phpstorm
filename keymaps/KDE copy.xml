@@ -1,0 +1,7 @@
+<keymap version="1" name="KDE copy" parent="Default for KDE">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="Vcs.UpdateProject" />
+</keymap>
