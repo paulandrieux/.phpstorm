@@ -4,6 +4,7 @@
       <sshConfig host="test.vpauto.fr" id="91b5f677-6ee7-42f1-b99a-c0ec18532646" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="appventus" />
       <sshConfig host="vpauto.fr" id="a15f853c-96d7-423e-bb21-7517658b8a64" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="appventus" />
       <sshConfig host="troopers.agency" id="12d706e8-118c-4b96-836c-ed909542f6d9" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="anakin" />
+      <sshConfig host="hoth.troopers.agency" id="6dd832c6-54c6-46b9-aacf-ac69ecbd5064" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="paul" />
     </configs>
   </component>
 </application>
