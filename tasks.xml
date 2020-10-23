@@ -1,0 +1,11 @@
+<application>
+  <component name="TaskStorage">
+    <tasks>
+      <task priority="Normal" completed="false" estimated="0" created="1603447466593" actual="0" highlighted="false" highlightingtype="Red" title="prix garanti" description="">
+        <task priority="Normal" completed="false" estimated="0" created="1603447477320" actual="0" highlighted="false" highlightingtype="Red" title="- de 2h" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1603447490363" actual="0" highlighted="false" highlightingtype="Red" title="mauvais département" description="" />
+        <task priority="Normal" completed="false" estimated="0" created="1603447624408" actual="0" highlighted="false" highlightingtype="Red" title="soumission sans prix garanti (rep sous 15m)" description="" />
+      </task>
+    </tasks>
+  </component>
+</application>
