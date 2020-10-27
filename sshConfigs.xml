@@ -6,6 +6,7 @@
       <sshConfig host="troopers.agency" id="12d706e8-118c-4b96-836c-ed909542f6d9" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="anakin" />
       <sshConfig host="hoth.troopers.agency" id="6dd832c6-54c6-46b9-aacf-ac69ecbd5064" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="paul" />
       <sshConfig host="163.172.16.215" id="066005b6-aec8-48ad-a969-30dcdf422d49" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="anakin" />
+      <sshConfig host="51.15.183.5" id="f8bd1f14-2739-4aba-8c52-0fc0a24963b6" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" username="anakin" />
     </configs>
   </component>
 </application>
