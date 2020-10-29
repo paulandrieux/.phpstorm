@@ -6,6 +6,13 @@
         <task priority="Normal" completed="false" estimated="0" created="1603447490363" actual="0" highlighted="false" highlightingtype="Red" title="mauvais département" description="" />
         <task priority="Normal" completed="false" estimated="0" created="1603447624408" actual="0" highlighted="false" highlightingtype="Red" title="soumission sans prix garanti (rep sous 15m)" description="" />
       </task>
+      <task priority="Normal" completed="false" estimated="0" created="1603906769977" actual="0" highlighted="false" highlightingtype="Red" title="Arpege" description="">
+        <task priority="Normal" completed="false" estimated="0" created="1603961937223" actual="0" highlighted="false" highlightingtype="Red" title="import contacts BO" description="" />
+      </task>
+      <task priority="Normal" completed="false" estimated="0" created="1603906774663" actual="0" highlighted="false" highlightingtype="Red" title="Gitlab" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1603906779460" actual="0" highlighted="false" highlightingtype="Red" title="Epat" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1603961944502" actual="0" highlighted="false" highlightingtype="Red" title="Troopers" description="" />
+      <task priority="Normal" completed="false" estimated="0" created="1603962077729" actual="0" highlighted="false" highlightingtype="Red" title="sentry" description="" />
     </tasks>
   </component>
 </application>
