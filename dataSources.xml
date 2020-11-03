@@ -42,5 +42,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3437</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="mustafar_leny" uuid="9e4ebb46-9674-4a21-9d3e-8ef2cf99e3f6">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3337</jdbc-url>
+    </data-source>
   </component>
 </application>
