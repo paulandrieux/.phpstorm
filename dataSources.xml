@@ -51,5 +51,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3337</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="mustafar players4good" uuid="079fe287-f689-4046-a55f-f355f0825178">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3316</jdbc-url>
+    </data-source>
   </component>
 </application>
