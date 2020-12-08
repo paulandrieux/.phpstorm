@@ -57,5 +57,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3316</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="espaceclient.arpege.fr prod" uuid="57a46dce-a548-48ff-9b81-f5186a7a9a3c">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:32458/postgres</jdbc-url>
+    </data-source>
   </component>
 </application>
